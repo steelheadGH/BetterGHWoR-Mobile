@@ -10,7 +10,7 @@ QoL modification of the game Guitar Hero Warriors of Rock Mobile for Android.
 
 • Removes "Would you like to download a higher quality audio file?" warning
 
-• Removes online features (they didn't even work anyways)
+• Removes online features (they didn't even work anyway)
 
 # Installation guide
 To install BetterGHWoR Mobile, go to the releases tab and choose the version that is more appropriate for your device. 
